@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://caihc8gfcy46b"]
 
 [ext_resource type="Script" path="res://menu/level_select_screen.gd" id="1_2dn3s"]
-[ext_resource type="Texture2D" uid="uid://csitil44ua4ck" path="res://assets/menu/Background.png" id="1_u6k8t"]
+[ext_resource type="Texture2D" uid="uid://csitil44ua4ck" path="res://assets/menu/background.png" id="1_u6k8t"]
 
 [node name="Level_Select_Screen" type="CanvasLayer"]
 script = ExtResource("1_2dn3s")
